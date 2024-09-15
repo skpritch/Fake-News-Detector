@@ -5,4 +5,4 @@ This project is a machine learning-based system designed to detect fake news by 
 
 The dataset used for this project consisted of public source labeled articles. The system achieved an impressive 96% test accuracy in identifying fake news, highlighting its effectiveness in distinguishing between reliable and unreliable sources.
 
-The types of models we tested included a couple of simple logistic regressions on domain extensions. More complex ones included bag of words (BOW), word vector models, and combinations of both.
+The types of models we tested included a couple of simple logistic regressions on domain extensions and keywords. More complex ones included bag of words (BOW), word vector models, and combinations of both.
